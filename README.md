@@ -1,2 +1,2 @@
-# Currency-convertor-
-Making a Currency convertor using js async /await 
+# My-Weather-app
+Making a Weather app 

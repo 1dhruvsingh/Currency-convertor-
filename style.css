@@ -16,6 +16,7 @@ body {
   border-radius: 10px;
   border: 2px solid white;
   color: black;
+  cursor: pointer;
 }
 
 .icon{
@@ -25,6 +26,7 @@ body {
   background-color: black;
   color: white;
   border: 1px solid white;
+  cursor: pointer;
 }
 
 .box{
